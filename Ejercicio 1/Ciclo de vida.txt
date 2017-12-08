@@ -1,0 +1,5 @@
+Analisis:Es la parte en la que e ven las necesidades y requerimientos de nuestro sistema a desarrollar
+Diseño: En esta seccion se hace uso de las herramientas de uml para iniciar la creacion de un sistema con base a los analisis del paso anterioro
+Codificacion:Al tener modelado el sistema se procede a escribir en un lenguaje de programacion el sistema diseñado tomando encuenta las notaciones del diagrama
+Pruebas:Despues de haber codificado el sistema se procede a realizar pruebas tanto de caja negra como de caja blanca por si en dado caso es necasario corregir errores
+Mantenimiento:Al tener creado el sistema surgen nuevas necesidades que no se contemplaban en el analisis cuandos el sistema por lo tanto es necesario incorporarlo.

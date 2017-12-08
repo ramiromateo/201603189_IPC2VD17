@@ -1,0 +1,3 @@
+Cascada
+El metodo de cascada es un metodo en el cual cada paso depende del anterio para ser creado de manera que si un paso no esta realizado no
+se puede parasar al siguiente ya que este necesita informacion de paso anterior 

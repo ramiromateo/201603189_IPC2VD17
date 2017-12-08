@@ -1,0 +1,3 @@
+Incremental
+Es una metodologia de creacion de sorftware que consisten en ir agregando constantemente en cada ciclo nuevas funciones para le sistema que 
+se este creando.

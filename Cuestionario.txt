@@ -1,0 +1,3 @@
+Cimmit:es como referencias los cambios que se hicierotn
+merge: unir o fusionar dos ramas
+pull sierva para obtener lo que tenemos en repositorio y push para cargar los commit
